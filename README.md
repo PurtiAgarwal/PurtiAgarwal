@@ -1,13 +1,13 @@
-### Hola, Purti here 👋
+### Hola, I'm Purti 👋
 
 <!--
 **PurtiAgarwal/PurtiAgarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently student @ NITRR 
-- 🌱 I’m currently learning web development
-- 👯 I’m looking to collaborate on open source community
+- 🔭 I’m currently MCA student @NIT, Raipur. 
+- 🌱 I’m currently learning Web Development.
+- 👯 I’m looking to collaborate on open source community.
 - 💬 Ask me about DSA
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/purti-agarwal/)
 - ⚡ Fun fact: Fun is just a mental state!
