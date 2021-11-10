@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hola, Purti here 👋
 
 <!--
 **PurtiAgarwal/PurtiAgarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently student @ NITRR 
+- 🌱 I’m currently learning web development
+- 👯 I’m looking to collaborate on open source community
+- 💬 Ask me about DSA
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/purti-agarwal/)
+- ⚡ Fun fact: Fun is just a mental state!
+<!-- 🤔 I’m looking for help with ...-->
+<!-- 😄 Pronouns: ...-->
+<img src="https://github-readme-stats.vercel.app/api?username=PurtiAgarwal&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
