@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently MCA student @NIT, Raipur. 
-- 🌱 I’m currently learning Web Development.
+- 🌱 I'm currently Software Engineer @ Optum.
+- 🔭 I’m pursued MCA student @NIT, Raipur. 
 - 👯 I’m looking to collaborate on open source community.
 - 💬 Ask me about DSA
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/purti-agarwal/)
